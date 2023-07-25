@@ -1,0 +1,5 @@
+Username: basant
+Hashed Password: $2y$10$hHf0QfXSR3s1D70I62OxSO7zIMJvRPNFvgwt0G25GMFfHerGXz/YK
+Email: b@gmail.com
+Room Number: 2
+Profile Image: uploads/1690282632_abstract-uv-ultraviolet-light-composition.jpg
